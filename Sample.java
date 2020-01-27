@@ -5,7 +5,7 @@ public class Sample{
 	for (int i=1; i<=10;i++)
 
 {
-			System.out.println(" My Name is Bhanukumar..." +i);
+			System.out.println(" My Name is Bhanukumarguda..." +i);
 }
 }
 }
